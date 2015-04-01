@@ -1,0 +1,5 @@
+module.exports = {
+  PARSE_APP_ID: 'z9VbH3mDlNtsKLy6CqYxIZE9rKqNAQAJQ4e4qdDT',
+  PARSE_JS_KEY: 'fPeV0B0EaDcFEjULL5svmp90PrNe0aNWiyV4qjEI',
+  FB_APP_ID: '662362260556793'
+};

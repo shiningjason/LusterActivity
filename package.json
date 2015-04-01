@@ -1,0 +1,22 @@
+{
+  "name": "LusterActivity",
+  "version": "0.0.1.dev",
+  "description": "達暉活動網",
+  "author": "Jason Chung",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.5.0",
+    "classnames": "^1.2.0",
+    "flux": "^2.0.1",
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.5.2",
+    "lodash": "^3.6.0",
+    "parse": "^1.4.1",
+    "react": "^0.13.1",
+    "react-bootstrap": "^0.19.1",
+    "react-router": "^0.13.2",
+    "react-router-bootstrap": "^0.12.1",
+    "reactify": "^1.1.0"
+  }
+}
